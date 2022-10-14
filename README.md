@@ -22,3 +22,4 @@ These are my apps I recommend on using from personal experiences
 19. Startup Delayer
 20. WizTree
 21. Jellyfin
+22. Obsidian
